@@ -1,7 +1,8 @@
-#######################
-# These steps assume that YOLO batch processing created by vincentgong7 is already downloaded and installed - Details on how to install YOLO batch processing can be found here: https://github.com/vincentgong7/VG_AlexeyAB_darknet/blob/master/README.md
+# camtrapYOLO
 
-#######################
+These steps assume that YOLO batch processing created by vincentgong7 is already downloaded and installed - Details on how to install YOLO batch processing can be found here: https://github.com/vincentgong7/VG_AlexeyAB_darknet/blob/master/README.md
+
+
 # Preparation steps prior to running YOLO batch processing:
 
 A0. Put all the images you wish to classify in one folder with an appropriate organizational scheme and naming convention.
@@ -14,7 +15,6 @@ A2. Create an output folder for the YOLO classified images inside the "YOLO_Outp
 -> e.g: /LWF_YOLO/YOLO_Output/YOLO_TM_Human
 
 
-#######################
 # YOLO batch processing steps:
 
 B0. Activate "yolo" conda environment by using the below command in Terminal:
