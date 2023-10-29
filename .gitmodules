@@ -1,0 +1,3 @@
+[submodule "VG_AlexeyAB_darknet"]
+	path = VG_AlexeyAB_darknet
+	url = git@github.com:vincentgong7/VG_AlexeyAB_darknet.git
